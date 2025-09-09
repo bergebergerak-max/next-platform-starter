@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RZ Trader Unity</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      background: #ffffff;
+      color: #333;
+    }
+    .container {
+      max-width: 500px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .logo {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      margin: 20px auto;
+      display: block;
+    }
+    h1 {
+      font-size: 22px;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 14px;
+      margin-bottom: 30px;
+    }
+    .btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #4CAF50;
+      color: white;
+      padding: 15px;
+      margin: 12px 0;
+      border-radius: 8px;
+      font-weight: bold;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background: #45a049;
+    }
+    .btn img {
+      width: 24px;
+      height: 24px;
+      margin-right: 10px;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 12px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Logo -->
+    <img src="logo.png" alt="Logo RZ Trader" class="logo">
+    
+    <!-- Judul -->
+    <h1>BACA DULU !!</h1>
+    <p>"Kalau link gak bisa dibuka, tekan titik tiga di pojok kanan atas → pilih buka di browser"</p>
+    
+    <!-- Tombol -->
+    <a href="https://bit.ly/3JWMqwV" target="_blank" class="btn">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram"> 
+      MASUK GRUP VIP
+    </a>
+    <a href="https://bit.ly/4mT0XZ5" target="_blank" class="btn">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram"> 
+      HUBUNGI ADMIN
+    </a>
+    <a href="https://stockity.id/?a=514cc168e3aa&t=7" target="_blank" class="btn">
+      <img src="https://cdn-icons-png.flaticon.com/512/633/633611.png" alt="Trading"> 
+      KLIK UNTUK MULAI TRADING
+    </a>
+    
+    <!-- Footer -->
+    <footer>
+      © 2025 RZ Trader Unity
+    </footer>
+  </div>
+</body>
+</html>
